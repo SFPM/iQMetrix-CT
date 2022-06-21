@@ -1,6 +1,6 @@
 # iQMetrix-CT
 
-![alt text](https://github.com/SFPM/iQMetrix-CT/blob/main/SFPM.jpg?raw=true)
+![alt text](https://github.com/SFPM/iQMetrix-CT/blob/main/iQMetrixCT_Screen.png?raw=true)
 
 ### Foreword
 The iQMetrix-CT software has been developed within the framework of the French Society of Medical Physics (SFPM) working group entitled *Development of an automated CT image analysis system including image quality metrics adapted to iterative reconstructions*.
