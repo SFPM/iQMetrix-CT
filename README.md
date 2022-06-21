@@ -20,3 +20,9 @@ iQMetrix-CT is suitable for both optimization process and performance monitoring
 iQMetrix-CT is a free software written by Yves BARBOTTEAU within the framework of the WG. The SFPM provides the iQmetrixCT software free of charge for academic use only. The SFPM cannot be held responsible for any use outside of its intended purpose. Furthermore, the software may not be redistributed, let alone sold, without the explicit permission of SFPM and the author. The software is protected by copyright.
 
 The use of the software is under the responsability of the user only. Neither SFPM, nor the author, nor the members of WG can be held responsible for the use of the softawre.
+
+### Prerequisites
+You will need to download the Matlab 2020a runtime available here: https://fr.mathworks.com/products/compiler/matlab-runtime.html
+
+The prerequisites for this runtime, and thus the iQMetrix-CT software, to work properly are available here : 
+https://fr.mathworks.com/support/requirements/previous-releases.html
