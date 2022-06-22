@@ -14,7 +14,7 @@ The iQMetrix-CT software has been developed within the framework of the French S
  	- Joël GREFFIER, Imagerie Médicale, MIG Nîmes, EA 2992, CHU Nîmes, Nîmes, France
 
 ### Software description
-iQMetrix-CT is designed to quantify CT Image Quality by using so-called advanced metrics such as Noise Power Spectrum (NPS), Task-based Transfer Function (TTF) and detectectability index (d').
+iQMetrix-CT is designed to quantify CT Image Quality by using so-called advanced metrics such as Noise Power Spectrum (NPS), Task-based Transfer Function (TTF) and detectability index (d').
 
 iQMetrix-CT is suitable for both optimization process and performance monitoring (QC). This software is compatible with images from most commercial scanners, including CBCT devices.
 	
