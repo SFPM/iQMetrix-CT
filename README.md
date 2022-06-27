@@ -2,8 +2,6 @@
 
 ![alt text](https://github.com/SFPM/iQMetrix-CT/blob/main/iQMetrixCT_Screen.png?raw=true)
 
-### THIS PAGE IS UNDER CONSTRUCTION ... iQMetrix-CT is coming soon !
-
 ### Foreword
 The iQMetrix-CT software has been developed within the framework of the French Society of Medical Physics (SFPM) working group entitled *Development of an automated CT image analysis system including image quality metrics adapted to iterative reconstructions*.
 
@@ -33,4 +31,5 @@ The prerequisites for this runtime, and thus the iQMetrix-CT software, to work p
 https://fr.mathworks.com/support/requirements/previous-releases.html
 
 ### Contact author
-For any bug reports, questions etc, you can freely contact Yves BARBOTTEAU by email : yves.barbotteau@gmail.com
+For any bug reports, questions etc, you can freely contact Yves BARBOTTEAU (yves.barbotteau@gmail.com) or Joël GREFFIER (joel.greffier@chu-nimes.fr)
+
