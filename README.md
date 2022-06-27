@@ -30,6 +30,6 @@ You will need to download the Matlab 2020a runtime available here: https://fr.ma
 The prerequisites for this runtime, and thus the iQMetrix-CT software, to work properly are available here : 
 https://fr.mathworks.com/support/requirements/previous-releases.html
 
-### Contact author
+### Contact
 For any bug reports, questions etc, you can freely contact Yves BARBOTTEAU (yves.barbotteau@gmail.com) or Joël GREFFIER (joel.greffier@chu-nimes.fr)
 
