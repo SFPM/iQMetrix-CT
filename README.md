@@ -22,7 +22,7 @@ iQMetrix-CT is a free software written by Yves BARBOTTEAU within the framework o
 The use of the software is under the responsability of the user only. Neither SFPM, nor the author, nor the members of WG can be held responsible for the use of the softawre.
 
 ### How to cite iQMetrix-CT
-Greffier J., Barbotteau Y. & Gardavaud F. (2022), *iQMetrix-CT: New software for task-based image quality assessment of phantom CT image*, Diagnostic and Interventional Imaging *(in press)*
+Greffier J., Barbotteau Y. & Gardavaud F. (2022), *iQMetrix-CT: New software for task-based image quality assessment of phantom CT image*, Diagnostic and Interventional Imaging *(in press)*, https://doi.org/10.1016/j.diii.2022.05.007
 
 ### Prerequisites
 You will need to download the Matlab 2020a runtime available here: https://fr.mathworks.com/products/compiler/matlab-runtime.html
