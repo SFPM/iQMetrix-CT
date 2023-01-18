@@ -33,3 +33,4 @@ https://fr.mathworks.com/support/requirements/previous-releases.html
 ### Contact
 For any bug reports, questions etc, you can freely contact Yves BARBOTTEAU (yves.barbotteau@gmail.com) or Joël GREFFIER (joel.greffier@chu-nimes.fr)
 
+<meta name="google-site-verification" content="hIp1T9L3SXLneryTBU08bfan9BSU_blOIAtpM-rI5ak" />
