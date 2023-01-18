@@ -1,5 +1,4 @@
 <head>
-<title>iQMetrix-CT</title>
 <meta name="description" content="iQMetrix-CT is distributed by the SFPM and it is designed to quantify CT Image Quality by using so-called advanced metrics such as Noise Power Spectrum (NPS), Task-based Transfer Function (TTF) and detectability index (NPWE)">
 <meta name="keywords" content="SFPM, iQMetrixCT, iQMetrix-CT, NPS, TTF, detectability index, NPWE, image quality, CT">
 <meta name="google-site-verification" content="hIp1T9L3SXLneryTBU08bfan9BSU_blOIAtpM-rI5ak">
