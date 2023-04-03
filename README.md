@@ -32,7 +32,9 @@ Greffier J., Barbotteau Y. & Gardavaud F. (2022), *iQMetrix-CT: New software for
 
 ### Prerequisites
 version 1.0 : you will need to download the Matlab 2020a runtime
+
 version 1.1 : you will need to download the Matlab 2022a runtime
+
 Matlab runtimes are available here: https://fr.mathworks.com/products/compiler/matlab-runtime.html
 
 The prerequisites for this runtime, and thus the iQMetrix-CT software, to work properly are available here : 
