@@ -31,9 +31,7 @@ The use of the software is under the responsability of the user only. Neither SF
 Greffier J., Barbotteau Y. & Gardavaud F. (2022), *iQMetrix-CT: New software for task-based image quality assessment of phantom CT image*, Diagnostic and Interventional Imaging, Volume 103, Issue 11, pages 555-562, https://doi.org/10.1016/j.diii.2022.05.007
 
 ### Prerequisites
-version 1.0 : you will need to download the Matlab 2020a runtime
-
-version 1.1 - last stable [release](https://github.com/SFPM/iQMetrix-CT/releases/tag/v1.1) : you will need to download the Matlab 2022a runtime
+version 1.2 - last stable [release](https://github.com/SFPM/iQMetrix-CT/releases/tag/v1.2) : you will need to download the Matlab 2022a runtime
 
 Matlab runtimes are available here: https://fr.mathworks.com/products/compiler/matlab-runtime.html
 
